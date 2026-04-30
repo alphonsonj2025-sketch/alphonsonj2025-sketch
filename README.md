@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Alphonso Yemsilack</h1>
+<h1 align="center">Hi 👋, I'm Alphonse Yemsilack</h1>
 <h3 align="center">Data Engineer | AI/ML Enthusiast | PSM I Certified</h3>
 
 <p align="center">
