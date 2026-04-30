@@ -1,115 +1,98 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Alphonse Yemsilack</h1>
-<h3 align="center">Data Engineer | AI/ML Enthusiast | PSM I Certified</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=0A66C2&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B+I'm+Alphonso+Yemsilack;Data+Engineer+%7C+Azure+%7C+Databricks;PySpark+%7C+Delta+Lake+%7C+SQL;Open+to+Canada+Opportunities" />
+</h1>
 
 <p align="center">
   <a href="mailto:alphonsoyemsilack@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
   </a>
   <img src="https://img.shields.io/badge/Location-Thailand-green?style=for-the-badge&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/Open%20to-Canada%20Opportunities-success?style=for-the-badge" />
 </p>
 
 ---
 
-<!-- ================= BADGES ================= -->
-## 🧰 Tech Stack
+## 🎯 Recruiter Snapshot (Canada)
 
-<p>
-  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apache-spark&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+✔ Data Engineer with hands-on **Azure + Databricks + SQL**  
+✔ Built **end-to-end ETL/ELT pipelines** using Medallion Architecture  
+✔ Experience with **Delta Lake, PySpark, and ADF orchestration**  
+✔ Strong foundation in **AI/ML & data modeling**  
+✔ Certified **PSM I** (Agile/Scrum delivery)
 
----
-
-<!-- ================= CERTIFICATIONS ================= -->
-## 📜 Certifications
-
-- 🥇 Professional Scrum Master I (PSM I)
-- 🥇 Microsoft Certified: Azure Data Engineer Associate (DP-700)
+📌 **Open to roles in Canada (Remote / Relocation / Visa Sponsorship)**  
+📩 Contact: **alphonsoyemsilack@gmail.com**
 
 ---
 
-<!-- ================= AI/ML ================= -->
-## 🤖 AI/ML & Data Science
+## 🧰 Core Skills
 
-- Completed training in AI/ML & Data Science  
-- Strong foundation in:
-  - Machine Learning concepts
-  - Feature engineering & data preprocessing
-  - Data analysis and modeling  
-- Ability to integrate data pipelines with ML workflows  
+- **Cloud & Platforms:** Azure, Databricks  
+- **Data Engineering:** ETL/ELT, Data Modeling, Medallion Architecture  
+- **Processing:** PySpark, Spark  
+- **Storage:** Delta Lake  
+- **Orchestration:** Azure Data Factory  
+- **Languages:** SQL, Python  
+- **Practices:** Data Quality, Validation, Agile (Scrum)
 
 ---
 
-<!-- ================= PROJECT ================= -->
 ## 📊 Featured Project
 
-### 🔹 Employee Attrition Data Engineering (Databricks)
+### 🔹 Employee Attrition Data Pipeline (Databricks)
 
-End-to-end Data Engineering project using **Medallion Architecture (Bronze → Silver → Gold)**.
+End-to-end **Azure/Databricks** pipeline transforming raw HR data into analytics-ready insights.
 
-#### 🔧 What I Built:
-- Scalable pipelines using Databricks & Delta Lake  
-- Cleaned and transformed raw HR data (Silver layer)  
-- Designed aggregated Gold tables for analytics  
-- Built SQL dashboards for business reporting  
+#### 🔧 Responsibilities:
+- Designed **Bronze → Silver → Gold** layers using Delta Lake  
+- Implemented **data cleaning, validation, and standardization**  
+- Built **aggregated Gold tables** for reporting  
+- Created **SQL dashboards** for business users  
 
-#### 📈 Business Value:
-- Identified **Attrition Rate: 16.12%**
-- Highlighted high-risk departments (R&D, Sales)
-- Provided actionable insights for retention strategy  
+#### 📈 Results:
+- Calculated **Attrition Rate: 16.12%** and retention metrics  
+- Identified **high-risk departments (R&D, Sales)**  
+- Enabled **data-driven HR decisions** on retention  
 
 👉 **View Project**  
 https://github.com/alphonsonj2025-sketch/employee-attrition-data-engineering-databricks
 
 ---
 
-<!-- ================= WHAT I DO ================= -->
-## 🎯 What I Do
+## 📜 Certifications
 
-- Build end-to-end data pipelines (Batch & Scalable)
-- Design Medallion Architecture (Bronze, Silver, Gold)
-- Transform raw data into business insights
-- Apply AI/ML concepts to real-world data problems
-- Work in Agile environments (Scrum - PSM I)
+- 🥇 Professional Scrum Master I (PSM I)  
+- 🥇 Microsoft Certified: Azure Data Engineer Associate (DP-700)
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+## 🤖 AI/ML Background
+
+- Completed training in **AI/ML & Data Science**  
+- Knowledge of **feature engineering, preprocessing, and model basics**  
+- Able to integrate **data pipelines with ML workflows**
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphonsonj2025-sketch&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsonj2025-sketch&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alphonsonj2025-sketch&show_icons=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphonsonj2025-sketch" height="150"/>
 </p>
 
 ---
 
-<!-- ================= TOP LANGUAGES ================= -->
-## 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsonj2025-sketch&layout=compact"/>
-</p>
-
----
-
-<!-- ================= CURRENT FOCUS ================= -->
 ## 🚀 Current Focus
 
-- Advanced Data Engineering with Databricks  
-- Building production-ready data pipelines  
-- Integrating AI/ML into scalable data platforms  
+- Building **production-ready Azure data pipelines**  
+- Strengthening **SQL & data modeling for analytics**  
+- Exploring **MLOps and data platform design**
 
 ---
 
-<!-- ================= FOOTER ================= -->
-## 💡 Profile Summary
+## 💡 Summary
 
-Data Engineer with hands-on experience in building scalable data pipelines using Databricks, PySpark, Delta Lake, and Azure Data Factory.  
-Strong foundation in AI/ML and Agile methodologies, focused on delivering reliable, business-driven data solutions.
-Strong foundation in AI/ML and Agile methodologies, with a focus on delivering business-driven data solutions.
+Data Engineer experienced with **Azure, Databricks, PySpark, and SQL**, focused on delivering **scalable, reliable data pipelines** and **business-ready insights**.  
+Actively seeking **Data Engineering opportunities in Canada**.
